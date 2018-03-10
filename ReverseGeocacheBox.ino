@@ -25,10 +25,7 @@ static const int CODE_CHECKSUME = 1;
 //-------------------------------------------------------------------------------
 // Ab hier bitte nur noch ändern wenn du weißt was du tust.
 //-------------------------------------------------------------------------------
-
-//static const int SERVO_LOCKED_ANGLE = 18;
-//static const int SERVO_UNLOCKED_ANGLE = 170;
-
+//Servo parameter zum offen und geschossen justieren
 static const int SERVO_LOCKED_ANGLE = 18;
 static const int SERVO_UNLOCKED_ANGLE = 170;
 
